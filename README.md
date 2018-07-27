@@ -1,4 +1,4 @@
-# myfirstpython
+# My first python project
 
 Test git for my first python project
 
